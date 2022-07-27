@@ -1,1 +1,3 @@
-Johannes tiene 23 year old y esta es su historia trabajando en estelio
+Johannes tiene 23 year old y esta es su historia trabajando en estelio 
+
+Aprendiendo git, js y react
