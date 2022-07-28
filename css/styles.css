@@ -29,13 +29,12 @@ body{
 }
 
 .header h1{
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+   font-size: 4rem;
+   display: inline-block;
 }
 
 span{
-    font-size: 2rem;
+    font-size: 1.4rem;
 }
 
 .post{
