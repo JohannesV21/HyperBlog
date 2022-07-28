@@ -8,9 +8,17 @@ body {
 #container {
   width: 60%;
   margin: 3rem auto;
-  padding: 1.5rem;
   border: 1px solid #000;
   text-align: left;
+}
+
+.cabecera {
+  background-color: aquamarine;
+  padding: 1rem;
+}
+
+.post {
+  padding: 1.5rem;
 }
 
 h1 {
