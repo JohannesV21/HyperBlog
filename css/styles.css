@@ -23,6 +23,21 @@ body{
     line-height: 1.5;
 }
 
+.header{
+    background-color: aquamarine;
+    padding: 3rem;
+}
+
+.header h1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+span{
+    font-size: 2rem;
+}
+
 .post{
     padding: 2rem;
     text-align: justify;
