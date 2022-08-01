@@ -26,11 +26,17 @@ body{
 .header{
     background-color: aquamarine;
     padding: 3rem;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .header h1{
    font-size: 4rem;
    display: inline-block;
+}
+
+.logo img {
+    width: 20rem;
 }
 
 span{
