@@ -25,17 +25,11 @@ body {
   line-height: 1.5;
 }
 
-<<<<<<< HEAD
-.header{
-    background-color: aquamarine;
-    padding: 3rem;
-    display: flex;
-    justify-content: space-evenly;
-=======
 .header {
   background-color: aquamarine;
   padding: 3rem;
->>>>>>> footer
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .header h1 {
@@ -43,17 +37,12 @@ body {
   display: inline-block;
 }
 
-<<<<<<< HEAD
 .logo img {
-    width: 20rem;
+  width: 20rem;
 }
 
-span{
-    font-size: 1.4rem;
-=======
 span {
   font-size: 1.4rem;
->>>>>>> footer
 }
 
 .post {
