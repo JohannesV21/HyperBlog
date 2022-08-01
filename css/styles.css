@@ -59,3 +59,9 @@ span {
   text-transform: uppercase;
   padding: 0.5rem;
 }
+
+.imagen {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
